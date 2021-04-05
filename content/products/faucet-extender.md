@@ -5,5 +5,5 @@ image = "/uploads/faucet-extender.jpg"
 name = "Faucet Extender"
 price = "24.95"
 product_url = "https://e-commerce-trial.netlify.app"
-
+url = '/'
 +++
