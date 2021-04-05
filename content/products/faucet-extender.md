@@ -4,6 +4,6 @@ id = "FAUCET_EXTENDER"
 image = "/uploads/faucet-extender.jpg"
 name = "Faucet Extender"
 price = "24.95"
-product_url = ""
+product_url = "https://bruhtus.github.io/e-commerce-web"
 
 +++
