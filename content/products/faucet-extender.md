@@ -3,8 +3,8 @@ description = "Make handwashing even easier by attaching a faucet extender to th
 id = "FAUCET_EXTENDER"
 image = "/uploads/faucet-extender.jpg"
 name = "Faucet Extender"
-price = "24.95"
-product_url = "https://e-commerce-trial.netlify.app/"
+price = 24.95
+product_url = "https://e-commerce-trial.netlify.app"
 url = "/"
 
 +++

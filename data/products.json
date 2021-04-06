@@ -5,6 +5,6 @@
 		"price": 24.95,
 		"image": "/images/faucet-extender.jpg",
 		"description": "Make handwashing even easier by attaching a faucet extender to the bathroom sink",
-		"product_url": "https://e-commerce-trial.netlify.app/"
+		"url": "https://e-commerce-trial.netlify.app"
 	}
 ]
