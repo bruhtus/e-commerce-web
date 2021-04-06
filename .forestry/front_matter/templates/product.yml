@@ -33,5 +33,6 @@ fields:
     required: false
   label: product_url
 pages:
+- content/products/bed-side-rail.md
 - content/products/faucet-extender.md
 - content/products/soft-soled-shoed.md
