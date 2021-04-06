@@ -8,9 +8,13 @@
 		<h2>TodFy</h2>
 		<p>An exclusive <strong>collection of toddler utilities</strong> for safety, comfy, and convenient.</p>
 	</div>
-	{{ range where .Site.RegularPages "Section" "products"}}
-	{{ partial "product.html" .Params }}
-	{{ end }}
+	<section class="container">
+		<div class="row">
+			{{ range $products }}
+			{{ partial "product.html" . }}
+			{{ end }}
+		</div>
+	</section>
 </main>
 
 {{ partial "footer.html" . }}
