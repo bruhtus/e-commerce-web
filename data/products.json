@@ -6,5 +6,21 @@
 		"image": "/images/faucet-extender.jpg",
 		"description": "Make handwashing even easier by attaching a faucet extender to the bathroom sink",
 		"url": "https://e-commerce-trial.netlify.app"
+	},
+	{
+		"id": "SOLED_SHOES",
+		"name": "Soft-soled Shoes",
+		"price": 26,
+		"image": "/images/soft-soled-shoes.jpg",
+		"description": "The soft soles of Robeez Shoes for toddlers promote balance by flexing and bending with each step",
+		"url": "https://e-commerce-trial.netlify.app"
+	},
+	{
+		"id": "SIDE_RAIL",
+		"name": "Bed Side Rail",
+		"price": 32.99,
+		"image": "/images/bed-side-rail.jpg",
+		"description": "Keep him/her safe with a protective side rail",
+		"url": "https://e-commerce-trial.netlify.app"
 	}
 ]
