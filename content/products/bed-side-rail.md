@@ -1,5 +1,5 @@
 +++
-description = "Keep her safe with a protective side rail."
+description = "Keep him/her safe with a protective side rail."
 id = "SIDE_RAIL"
 image = "/uploads/bed-side-rail.jpg"
 name = "Bed Side Rail"
