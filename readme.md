@@ -8,7 +8,9 @@ Here's the breakdown of each component that used in this project:
 - Forestry.io: to input entry for e-commerce site.
 - Netlify: to deploy e-commerce site.
 
-There's still a problem with snipcart while processing the final checkout, the message is along this line "there's a change in the price while you place the order" or something like that. Other than that, it works.
+> There's still a problem with snipcart while processing the final checkout, the message is along this line "there's a change in the price while you place the order" or something like that. Other than that, it works.
+
+Fix that by adding `default website domain` in [snipcart dashboard](https://app.snipcart.com/dashboard/account/domains).
 
 ### References
 
