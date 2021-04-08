@@ -9,3 +9,8 @@ Here's the breakdown of each component that used in this project:
 - Netlify: to deploy e-commerce site.
 
 There's still a problem with snipcart while processing the final checkout, the message is along this line "there's a change in the price while you place the order" or something like that. Other than that, it works.
+
+### References
+
+- [Original article](https://snipcart.com/blog/hugo-tutorial-static-site-ecommerce#comment-5331722223)
+- [Setup google analytics](http://cloudywithachanceofdevops.com/posts/2018/05/17/setting-up-google-analytics-on-hugo/)
