@@ -16,3 +16,5 @@ Fix that by adding `default website domain` in [snipcart dashboard](https://app.
 
 - [Original article](https://snipcart.com/blog/hugo-tutorial-static-site-ecommerce#comment-5331722223)
 - [Setup google analytics](http://cloudywithachanceofdevops.com/posts/2018/05/17/setting-up-google-analytics-on-hugo/)
+- [Snipcart guide for setup google tag manager](https://snipcart.com/blog/guide-enhanced-ecommerce-google-tag-manager)
+- [Intro to google tag manager](https://www.orbitmedia.com/blog/what-is-google-tag-manager-and-why-use-it/)
